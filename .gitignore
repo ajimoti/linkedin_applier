@@ -1,0 +1,17 @@
+node_modules
+venv
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.sqlite
+*.sqlite3
+
+# Ignore environment-specific settings
+.env
+
+/static/
+/staticfiles/
+/media/
